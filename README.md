@@ -4,6 +4,6 @@ This is a package that can be used to quickly build a corpus from news articles.
 
 Available 
 
-`pip install news-corpus-builder
+```pip install news-corpus-builder```
 
 See http://skillachie.github.io/news-corpus-builder/ for installation and usage
