@@ -2,7 +2,7 @@
 
 This is a package that can be used to quickly build a corpus from news articles. 
 
-*Originally written by https://github.com/skillachie, I've modified it to work with Python 3.x.*
+**Originally written by https://github.com/skillachie, I've modified it to work with Python 3.x.**
 
 To install:
 
